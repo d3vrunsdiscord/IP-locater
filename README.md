@@ -1,7 +1,11 @@
 Made By D3v.py
+
 H T T P : / / W W W . T I K T O K . C O M / @ D 3 V . P Y - [ tiktok ]
+
 H T T P : / / D O X C E N T R A L . D E V - [ website ]
+
 $ F E D E R A L D E V - [ cashapp ]
+
 #########################################################
 
 print(" Hello Skids ")
